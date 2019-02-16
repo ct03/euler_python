@@ -1,7 +1,5 @@
 #euler problem 2
 
-        
-#def f():
 x,y,z,sum,i = 1,2,0,0,0
 
 while sum < 4000000:
@@ -19,5 +17,4 @@ while sum < 4000000:
     
 print(sum)
         
-#f()
         
